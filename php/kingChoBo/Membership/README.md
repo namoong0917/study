@@ -17,3 +17,11 @@
 - xampp
 - db관리툴 (sqlyog or heidisql or phpmyadmin)
 - 브라우저 (chrome or firefox)
+
+## 회원 약관 동의 페이지
+
+![php1](https://github.com/namoong0917/study/assets/103318401/005cdfde-95b6-46cc-9bf4-1ea36ee883de)
+
+## 회원가입 페이지
+
+![php2](https://github.com/namoong0917/study/assets/103318401/c276bbe3-3102-4958-86f3-191884ff61aa)
